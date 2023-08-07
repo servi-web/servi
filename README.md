@@ -26,5 +26,5 @@ npm run dev
 ```
 
 > Si se encuentra trabajando en VS Code instalar la extensión [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), esta le permitira ver las sugerencias y errores del linter configurado.
-
+>
 > Tambien con VS Code se puede configurar para que al guardar tu archivo automaticamente formatee el codigo corrigiendo los errores del linter. para ello puedes ver el siguiente articulo [Configurar ESLint](https://johnserrano.co/blog/configurar-eslint-con-vscode-para-javascript)
